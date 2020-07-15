@@ -1,1 +1,1 @@
-# NixOS configurations synced to folder .sync on the system.
+# NixOS configurations for the future.
